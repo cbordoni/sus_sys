@@ -7,7 +7,7 @@ O sus_sys tem como propósito:
 * Acompanhamento em tempo real dos resultados das consultas realizadas.
 * Histórico médico completo do paciente
 
-## Arch
+## Construção
 
 Backend: NODEJS
 Frontned: REACTJS
